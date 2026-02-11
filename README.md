@@ -10,6 +10,8 @@
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/pourkhanalii)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love coding and learning new technologies
+
+
  👋 سلام، من پورخانعلی هستم
 🚀 توسعه‌دهنده ری‌اکت و ری‌اکت نیتیو
 🔭 در حال حاضر روی اپلیکیشن‌های وب و موبایل با ری‌اکت کار می‌کنم
